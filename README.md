@@ -1,5 +1,5 @@
 # MDAZKP
-MAD ZKP experiment code
+MDA ZKP experiment code
 
 Please read the readme.txt in the resource folder, and create a sufficient number of worker* folders according to the number of workers to be executed in parallel, * is the number
 
