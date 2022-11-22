@@ -10,7 +10,7 @@ from selfMethod import selfMethod
 from socket import *
 
 
-# 接受交易请求，并使用selfMethod验证，然后发送给队列checkedR
+# 接受交易请求，并使用selfMethod验证，然后发送给队列checkedR  Test
 
 def worker(worker):
     '''
